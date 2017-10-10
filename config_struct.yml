@@ -1,3 +1,6 @@
-test:
-	achtung: 42
-	dprex: 'Hallo, Welt!'
+parameters:
+    test: 25
+bootstrap:
+    test: 42
+rocket:
+    keintest: 18
